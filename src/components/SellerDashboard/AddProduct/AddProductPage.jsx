@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Sidebar from '../Sidebar';
+import Sidebar from '../MainSidebar/Sidebar';
 import AddProductForm from './AddProductForm';
 
 const AddProductPage = () => {

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Sidebar from '../Sidebar';
+import Sidebar from '../MainSidebar/Sidebar';
 import ProfileForm from './ProfileForm';
 
 const ProfilePage = () => {

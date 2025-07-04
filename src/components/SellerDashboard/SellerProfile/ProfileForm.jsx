@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ProfileFormField from './ProfileFormField';
-import CountryDropdown from '../SellerProfile/CountryDropdown';
+import CountryDropdown from './CountryDropdown';
 import FileUploader from '../AddProduct/FileUploader';
 
 const ProfileForm = ({ profile, onChange, onUpload }) => {

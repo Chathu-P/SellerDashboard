@@ -1,5 +1,5 @@
 import React from 'react';
-import Sidebar from '../Sidebar';
+import Sidebar from '../MainSidebar/Sidebar';
 import MetricsGrid from './MetricsGrid';
 import PriceListTable from './PriceListTable';
 import SalesChart from './SalesChart';

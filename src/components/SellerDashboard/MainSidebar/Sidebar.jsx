@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { User, Plus, BarChart3, Wallet, Bell, LogOut } from 'lucide-react';
-import Image from '../assets/seller.jpg'; // Adjust the path as necessary
+import Image from '../../../assets/seller.jpg'; // Adjust the path as necessary
 const Sidebar = () => {
   const navigate = useNavigate();
   const location = useLocation();

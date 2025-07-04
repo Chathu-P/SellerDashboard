@@ -1,5 +1,5 @@
 import React from 'react';
-import Sidebar from '../Sidebar';
+import Sidebar from '../MainSidebar/Sidebar';
 import NotificationsList from './NotificationsList';
 
 const NotificationsPage = () => {

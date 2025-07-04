@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
-import ProfilePage from "./components/SellerProfile/ProfilePage"
-import AddProductPage from "./components/AddProduct/AddProductPage"
-import AnalyticsPage from "./components/Analytics/AnalyticsPage"
-import WalletPage from "./components/Wallet/WalletPage"
-import NotificationsPage from "./components/Notifications/NotificationsPage"
+import ProfilePage from "./components/SellerDashboard/SellerProfile/ProfilePage"
+import AddProductPage from "./components/SellerDashboard/AddProduct/AddProductPage"
+import AnalyticsPage from "./components/SellerDashboard/Analytics/AnalyticsPage"
+import WalletPage from "./components/SellerDashboard/Wallet/WalletPage"
+import NotificationsPage from "./components/SellerDashboard/Notifications/NotificationsPage"
 import "./index.css"
 
 function App() {

@@ -1,4 +1,4 @@
-import Sidebar from "../Sidebar"
+import Sidebar from "../MainSidebar/Sidebar"
 import WalletOverview from "./WalletOverview"
 import TransactionHistory from "./TransactionHistory"
 
